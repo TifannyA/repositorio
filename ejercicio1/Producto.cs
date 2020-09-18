@@ -14,7 +14,7 @@ namespace ejercicio1
 
 //        public Producto()
 //        {
-
+ 
 //        }
 
 //        public Producto(int pCodigo, string nom,double pPrecio) //p = parámetro
